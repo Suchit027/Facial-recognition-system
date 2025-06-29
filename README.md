@@ -5,7 +5,7 @@ A facial recognition system built with **Django** as the backend framework and *
 - Compare a new image against registered identities for recognition.
 - Deep learning-based facial embeddings using pretrained PyTorch models.
 - Store facial embeddings and metadata in a database.
-- View similarity scores with cosine distance or Euclidean metrics.
+- View similarity scores with cosine distance metrics.
 - Simple authentication and logging of recognition requests
 
 ## How It Works
